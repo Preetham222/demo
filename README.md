@@ -1,2 +1,0 @@
-# demo
-movies, series, etc.
