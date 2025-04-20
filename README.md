@@ -1,2 +1,2 @@
 # demo
-movies, series, etc..
+movies, series, etc.
